@@ -1,0 +1,26 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_baseline_delete_outline_24.xml" value="0.1" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_outline_edit_24.xml" value="0.1" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/rounded_background_shape.xml" value="0.1" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_mdejdz.xml" value="0.1" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_task_list.xml" value="0.25" />
+        <entry key="..\:/Users/chatt/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/item_task.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
